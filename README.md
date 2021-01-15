@@ -18,14 +18,12 @@ For this project, I was interestested in using Stack Overflow data from 2020 to 
 2. Which programming languages are the most popular among developers in 2020?
 3. Which languages are the most profitable in terms of salary? 
 
-The full set of data can be found here 
+The full set of data can be found [here](https://insights.stackoverflow.com/survey).
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There is 1 notebook available here to showcase work related to the above questions.  Part 1 of the file focuses on creating the bar chart for the most popular languages in 2020 and 2021 based on the answers from Stack Overflow developers. Furthermore, the markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
