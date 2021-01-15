@@ -27,4 +27,4 @@ There is 1 notebook available here to showcase work related to the above questio
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/a106e34d9ea3/edit).
+The main findings of the code can be found at the Medium post available [here](https://medium.com/p/a106e34d9ea3/edit).
