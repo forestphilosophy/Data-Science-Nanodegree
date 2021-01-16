@@ -23,7 +23,7 @@ The full set of data can be found [here](https://insights.stackoverflow.com/surv
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook available here to showcase work related to the above questions.  Part 1 of the file focuses on creating the bar chart for the most popular languages in 2020 and 2021 based on the answers from Stack Overflow developers. Furthermore, the markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 notebook available here to showcase work related to the above questions.  Part 1 of the file focuses on creating the bar chart for the most popular languages in 2020 and 2021 based on the answers from Stack Overflow developers. Part 2 of the file implements a simple linear regression to investigate how much more can developers earn knowing certain programming langauge. Furthermore, the markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
