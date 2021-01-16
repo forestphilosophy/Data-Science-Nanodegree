@@ -16,7 +16,7 @@ For this project, I was interestested in using Stack Overflow data from 2020 to 
 
 1. Which programming languages are the most desired next year (Which language to learn in 2021)?
 2. Which programming languages are the most popular among developers in 2020?
-3. Which languages are the most profitable in terms of salary? 
+3. How much more do developers earn for mastering certain programming languages?
 
 The full set of data can be found [here](https://insights.stackoverflow.com/survey).
 
