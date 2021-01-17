@@ -4,7 +4,7 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -28,3 +28,7 @@ There is 1 notebook available here to showcase work related to the above questio
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the Medium post available [here](https://medium.com/p/a106e34d9ea3/edit).
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+All credit to Stack Overflow for the data.  Feel free to use the code here as you would like! 
